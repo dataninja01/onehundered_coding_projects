@@ -1,4 +1,5 @@
-# onehundered_coding_projects - Based on Angela Yu Bootcamp
+# onehundered_coding_projects - Based on Dr. Angela Yu's -100 Days of Code: The Complete Python Pro Bootcamp
+
 Hands on projects using python
 
 1. Password generator
