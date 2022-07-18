@@ -1,4 +1,4 @@
-Make a rock, paper, scissors game.
+# Make a rock, paper, scissors game.
 
 # You'll find the ASCII art for the hand signals already saved to a corresponding variable: rock, paper, and scissors. 
 # This will make it easy to print them out to the console.
