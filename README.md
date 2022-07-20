@@ -6,3 +6,4 @@ Hands on projects using python
 2. Hangman game
 3. Rock Paper Scissors Game
 4. Guess the word - Decipher(encode/Decode) game
+5. Simple calculator
