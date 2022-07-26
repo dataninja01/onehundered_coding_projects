@@ -10,3 +10,4 @@ Hands on projects using python
 6. Let's play BlackJack
 7. Guess the number between 1-100
 8. High/Low Insta followers
+9. Coffee Machine
