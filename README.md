@@ -8,3 +8,5 @@ Hands on projects using python
 4. Guess the word - Detective(encode/Decode) game
 5. Simple calculator
 6. Let's play BlackJack
+7. Guess the number between 1-100
+8. High/Low Insta followers
